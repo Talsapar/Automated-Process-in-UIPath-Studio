@@ -15,3 +15,6 @@ In the contact card in Outlook, in the Job title field, one of the following opt
 The Flow will choose the correct option according to the comparison between the data in column D and the data in column E in the Excel file.
 At the end of handling the contact, the current date and time will be entered in the "Treated B" cell.
 
+# All this using the following commands:
+Use Application/Browser, Click, Keyboard Shortcuts, Type Into, Get From Clipboard, If, Assign, Terminate Workflow, Excel Application Scope, Read Cell.
+
