@@ -4,7 +4,7 @@ Building a Flow that will perform an automatic process that will add contacts to
 * >The development in UiPath Studio is done in the .NET environment, when specifically in this process VB.NET is used.
 
 # The process: 
-Building a Flow that will perform an automatic process that will add contacts to Outlook, according to the attached Excel file (where during the automation process the Excel file will be closed).
+Building a Flow that will perform an automatic process that will add contacts to Outlook, according to the attached Excel file (two solutions - one when the Excel file will be open during the automation process, and another when the Excel file will be closed).
 
 For each contact, the process will save their full name, email address and phone number in Outlook.
 
