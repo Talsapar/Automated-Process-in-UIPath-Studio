@@ -1,4 +1,4 @@
-# automated-process-in-UIPath
+# automated-process-in-UIPath Studio
 Building a Flow that will perform an automatic process that will add contacts to Outlook, according to the attached Excel file.
 
 # The process: 
